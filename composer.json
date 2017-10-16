@@ -1,0 +1,6 @@
+{
+    "name": "vagrant/typing",
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^1.1"
+    }
+}
